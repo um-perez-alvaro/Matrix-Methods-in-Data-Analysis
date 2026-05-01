@@ -1,7 +1,7 @@
-# Matrix Algebra for Data Analysis and Visualization
+# Matrix Methods in Data Analysis
 
 
-This is the GitHub repository of the book *Matrix Algebra for Data Analysis and Visualization*
+This is the GitHub repository of the book *Matrix Methods in Data Analysis*
 
 ## Contents:
 
