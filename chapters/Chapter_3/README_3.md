@@ -1,10 +1,10 @@
-# PART 2: MATRIX MULTIPLICATION AND PARTITIONED MATRICES
+# PART 3: NORMS, DISTANCES AND SIMILARITIES
 
 
 
 ## Jupyter notebooks
 
-* [Matrix Algebra](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_2/Matrix%20Algebra.ipynb)
+* [Matrix and vector norms]()
 
 
 
