@@ -1,11 +1,9 @@
-# PART 2: MATRIX MULTIPLICATION AND PARTITIONED MATRICES
+# PART 5: THE LU FACTORIZATION OF A MATRIX
 
 
 ## Jupyter notebooks
-- [Matrix Algebra](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_2/Matrix%20Algebra.ipynb)
-- [Introduction to Block Matrices](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_2/Block%20matrices.ipynb)
-- [The Kronecker and Hadamard Products](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_2/Kronecker%20and%20Hadamard%20products.ipynb)
-- [The Katz Centrality Measure](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_2/Katz%20centrality.ipynb)
+- [LU factorization]()
+
 
 
 ## Datasets
