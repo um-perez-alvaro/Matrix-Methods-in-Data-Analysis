@@ -2,7 +2,7 @@
 
 
 ## Jupyter notebooks
-- [Matrix Algebra](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_2/Matrix%20Algebra.ipynb)
+- [The SVD]()
 
 
 
